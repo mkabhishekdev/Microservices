@@ -1,0 +1,48 @@
+/Users/AbhiKemp/Desktop/Development/src/Services/InventoryManagementAPI/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/Users/AbhiKemp/Desktop/Development/src/Services/InventoryManagementAPI/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/AbhiKemp/Desktop/Development/src/Services/InventoryManagementAPI/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/Users/AbhiKemp/Desktop/Development/src/Services/InventoryManagementAPI/bin/Debug/netcoreapp2.0/InventoryManagementAPI.deps.json
+/Users/AbhiKemp/Desktop/Development/src/Services/InventoryManagementAPI/bin/Debug/netcoreapp2.0/InventoryManagementAPI.runtimeconfig.json
+/Users/AbhiKemp/Desktop/Development/src/Services/InventoryManagementAPI/bin/Debug/netcoreapp2.0/InventoryManagementAPI.runtimeconfig.dev.json
+/Users/AbhiKemp/Desktop/Development/src/Services/InventoryManagementAPI/bin/Debug/netcoreapp2.0/InventoryManagementAPI.dll
+/Users/AbhiKemp/Desktop/Development/src/Services/InventoryManagementAPI/bin/Debug/netcoreapp2.0/InventoryManagementAPI.pdb
+/Users/AbhiKemp/Desktop/Development/src/Services/InventoryManagementAPI/obj/Debug/netcoreapp2.0/InventoryManagementAPI.csprojAssemblyReference.cache
+/Users/AbhiKemp/Desktop/Development/src/Services/InventoryManagementAPI/obj/Debug/netcoreapp2.0/InventoryManagementAPI.AssemblyInfoInputs.cache
+/Users/AbhiKemp/Desktop/Development/src/Services/InventoryManagementAPI/obj/Debug/netcoreapp2.0/InventoryManagementAPI.AssemblyInfo.cs
+/Users/AbhiKemp/Desktop/Development/src/Services/InventoryManagementAPI/obj/Debug/netcoreapp2.0/InventoryManagementAPI.dll
+/Users/AbhiKemp/Desktop/Development/src/Services/InventoryManagementAPI/obj/Debug/netcoreapp2.0/InventoryManagementAPI.pdb
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/Research/Development/src/Services/InventoryManagementAPI/bin/Debug/netcoreapp2.0/appsettings.Development.json
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/Research/Development/src/Services/InventoryManagementAPI/bin/Debug/netcoreapp2.0/appsettings.json
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/Research/Development/src/Services/InventoryManagementAPI/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/Research/Development/src/Services/InventoryManagementAPI/bin/Debug/netcoreapp2.0/InventoryManagementAPI.deps.json
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/Research/Development/src/Services/InventoryManagementAPI/bin/Debug/netcoreapp2.0/InventoryManagementAPI.runtimeconfig.json
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/Research/Development/src/Services/InventoryManagementAPI/bin/Debug/netcoreapp2.0/InventoryManagementAPI.runtimeconfig.dev.json
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/Research/Development/src/Services/InventoryManagementAPI/bin/Debug/netcoreapp2.0/InventoryManagementAPI.dll
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/Research/Development/src/Services/InventoryManagementAPI/bin/Debug/netcoreapp2.0/InventoryManagementAPI.pdb
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/Research/Development/src/Services/InventoryManagementAPI/obj/Debug/netcoreapp2.0/InventoryManagementAPI.csprojAssemblyReference.cache
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/Research/Development/src/Services/InventoryManagementAPI/obj/Debug/netcoreapp2.0/InventoryManagementAPI.AssemblyInfoInputs.cache
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/Research/Development/src/Services/InventoryManagementAPI/obj/Debug/netcoreapp2.0/InventoryManagementAPI.AssemblyInfo.cs
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/Research/Development/src/Services/InventoryManagementAPI/obj/Debug/netcoreapp2.0/InventoryManagementAPI.dll
+C:/Users/abhi.kempanna/OneDrive - Tyler Technologies, Inc/Desktop/Research/Development/src/Services/InventoryManagementAPI/obj/Debug/netcoreapp2.0/InventoryManagementAPI.pdb
+C:\Users\Abhishek Muthsandra\Desktop\LATEST_FROM_MAC\Development\src\Services\InventoryManagementAPI\bin\Debug\netcoreapp2.0\InventoryManagementAPI.deps.json
+C:\Users\Abhishek Muthsandra\Desktop\LATEST_FROM_MAC\Development\src\Services\InventoryManagementAPI\bin\Debug\netcoreapp2.0\InventoryManagementAPI.runtimeconfig.json
+C:\Users\Abhishek Muthsandra\Desktop\LATEST_FROM_MAC\Development\src\Services\InventoryManagementAPI\bin\Debug\netcoreapp2.0\InventoryManagementAPI.runtimeconfig.dev.json
+C:\Users\Abhishek Muthsandra\Desktop\LATEST_FROM_MAC\Development\src\Services\InventoryManagementAPI\bin\Debug\netcoreapp2.0\InventoryManagementAPI.dll
+C:\Users\Abhishek Muthsandra\Desktop\LATEST_FROM_MAC\Development\src\Services\InventoryManagementAPI\bin\Debug\netcoreapp2.0\InventoryManagementAPI.pdb
+C:\Users\Abhishek Muthsandra\Desktop\LATEST_FROM_MAC\Development\src\Services\InventoryManagementAPI\obj\Debug\netcoreapp2.0\InventoryManagementAPI.csprojAssemblyReference.cache
+C:\Users\Abhishek Muthsandra\Desktop\LATEST_FROM_MAC\Development\src\Services\InventoryManagementAPI\obj\Debug\netcoreapp2.0\InventoryManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Muthsandra\Desktop\LATEST_FROM_MAC\Development\src\Services\InventoryManagementAPI\obj\Debug\netcoreapp2.0\InventoryManagementAPI.AssemblyInfoInputs.cache
+C:\Users\Abhishek Muthsandra\Desktop\LATEST_FROM_MAC\Development\src\Services\InventoryManagementAPI\obj\Debug\netcoreapp2.0\InventoryManagementAPI.AssemblyInfo.cs
+C:\Users\Abhishek Muthsandra\Desktop\LATEST_FROM_MAC\Development\src\Services\InventoryManagementAPI\obj\Debug\netcoreapp2.0\InventoryManagementAPI.dll
+C:\Users\Abhishek Muthsandra\Desktop\LATEST_FROM_MAC\Development\src\Services\InventoryManagementAPI\obj\Debug\netcoreapp2.0\InventoryManagementAPI.pdb
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Services\InventoryManagementAPI\bin\Debug\netcoreapp2.0\InventoryManagementAPI.deps.json
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Services\InventoryManagementAPI\bin\Debug\netcoreapp2.0\InventoryManagementAPI.runtimeconfig.json
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Services\InventoryManagementAPI\bin\Debug\netcoreapp2.0\InventoryManagementAPI.runtimeconfig.dev.json
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Services\InventoryManagementAPI\bin\Debug\netcoreapp2.0\InventoryManagementAPI.dll
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Services\InventoryManagementAPI\bin\Debug\netcoreapp2.0\InventoryManagementAPI.pdb
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Services\InventoryManagementAPI\obj\Debug\netcoreapp2.0\InventoryManagementAPI.csprojAssemblyReference.cache
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Services\InventoryManagementAPI\obj\Debug\netcoreapp2.0\InventoryManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Services\InventoryManagementAPI\obj\Debug\netcoreapp2.0\InventoryManagementAPI.AssemblyInfoInputs.cache
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Services\InventoryManagementAPI\obj\Debug\netcoreapp2.0\InventoryManagementAPI.AssemblyInfo.cs
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Services\InventoryManagementAPI\obj\Debug\netcoreapp2.0\InventoryManagementAPI.dll
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Services\InventoryManagementAPI\obj\Debug\netcoreapp2.0\InventoryManagementAPI.pdb

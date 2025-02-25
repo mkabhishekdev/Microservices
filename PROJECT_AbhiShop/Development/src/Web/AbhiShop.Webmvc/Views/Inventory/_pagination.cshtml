@@ -1,0 +1,32 @@
+@model AbhiShop.Webmvc.ViewModels.PaginationInfo
+
+<div class="ashop-pager">
+    <div class="container">
+        <article class="ashop-pager-wrapper row">
+            <nav>
+                <a class="ashop-pager-item ashop-pager-item--navigable @Model.Previous"
+                   id="Previous"
+                   asp-controller="Inventory"
+                   asp-action="Index"
+                   asp-route-page="@(Model.ActualPage -1)"
+                   aria-label="Previous">
+                    Previous
+                </a>
+
+                <span class="ashop-pager-item">
+                    Showing @Model.ItemsPerPage of @Model.TotalItems products - Page @(Model.ActualPage + 1) - @Model.TotalPages
+                </span>
+
+                <a class="ashop-pager-item ashop-pager-item--navigable @Model.Next"
+                   id="Next"
+                   asp-controller="Inventory"
+                   asp-action="Index"
+                   asp-route-page="@(Model.ActualPage + 1)"
+                   aria-label="Next">
+                    Next
+                </a>
+            </nav>
+        </article>
+    </div>
+</div>
+

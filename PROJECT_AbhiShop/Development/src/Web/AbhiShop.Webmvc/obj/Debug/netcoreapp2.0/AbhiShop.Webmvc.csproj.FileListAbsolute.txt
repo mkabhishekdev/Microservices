@@ -1,0 +1,36 @@
+C:/Users/Abhishek Muthsandra/Desktop/LATEST_FROM_MAC/Development/src/Web/AbhiShop.Webmvc/bin/Debug/netcoreapp2.0/AbhiShop.Webmvc.deps.json
+C:/Users/Abhishek Muthsandra/Desktop/LATEST_FROM_MAC/Development/src/Web/AbhiShop.Webmvc/bin/Debug/netcoreapp2.0/AbhiShop.Webmvc.runtimeconfig.json
+C:/Users/Abhishek Muthsandra/Desktop/LATEST_FROM_MAC/Development/src/Web/AbhiShop.Webmvc/bin/Debug/netcoreapp2.0/AbhiShop.Webmvc.runtimeconfig.dev.json
+C:/Users/Abhishek Muthsandra/Desktop/LATEST_FROM_MAC/Development/src/Web/AbhiShop.Webmvc/bin/Debug/netcoreapp2.0/AbhiShop.Webmvc.dll
+C:/Users/Abhishek Muthsandra/Desktop/LATEST_FROM_MAC/Development/src/Web/AbhiShop.Webmvc/bin/Debug/netcoreapp2.0/AbhiShop.Webmvc.pdb
+C:/Users/Abhishek Muthsandra/Desktop/LATEST_FROM_MAC/Development/src/Web/AbhiShop.Webmvc/obj/Debug/netcoreapp2.0/AbhiShop.Webmvc.csprojAssemblyReference.cache
+C:/Users/Abhishek Muthsandra/Desktop/LATEST_FROM_MAC/Development/src/Web/AbhiShop.Webmvc/obj/Debug/netcoreapp2.0/AbhiShop.Webmvc.csproj.CoreCompileInputs.cache
+C:/Users/Abhishek Muthsandra/Desktop/LATEST_FROM_MAC/Development/src/Web/AbhiShop.Webmvc/obj/Debug/netcoreapp2.0/AbhiShop.Webmvc.AssemblyInfoInputs.cache
+C:/Users/Abhishek Muthsandra/Desktop/LATEST_FROM_MAC/Development/src/Web/AbhiShop.Webmvc/obj/Debug/netcoreapp2.0/AbhiShop.Webmvc.AssemblyInfo.cs
+C:/Users/Abhishek Muthsandra/Desktop/LATEST_FROM_MAC/Development/src/Web/AbhiShop.Webmvc/obj/Debug/netcoreapp2.0/AbhiShop.Webmvc.dll
+C:/Users/Abhishek Muthsandra/Desktop/LATEST_FROM_MAC/Development/src/Web/AbhiShop.Webmvc/obj/Debug/netcoreapp2.0/AbhiShop.Webmvc.pdb
+/Users/AbhiKemp/Desktop/Development/src/Web/AbhiShop.Webmvc/obj/Debug/netcoreapp2.0/AbhiShop.Webmvc.csprojAssemblyReference.cache
+/Users/AbhiKemp/Desktop/Development/src/Web/AbhiShop.Webmvc/obj/Debug/netcoreapp2.0/AbhiShop.Webmvc.AssemblyInfoInputs.cache
+/Users/AbhiKemp/Desktop/Development/src/Web/AbhiShop.Webmvc/obj/Debug/netcoreapp2.0/AbhiShop.Webmvc.AssemblyInfo.cs
+/Users/AbhiKemp/Desktop/Development/src/Web/AbhiShop.Webmvc/obj/Debug/netcoreapp2.0/AbhiShop.Webmvc.dll
+/Users/AbhiKemp/Desktop/Development/src/Web/AbhiShop.Webmvc/obj/Debug/netcoreapp2.0/AbhiShop.Webmvc.pdb
+/Users/AbhiKemp/Desktop/Development/src/Web/AbhiShop.Webmvc/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/Users/AbhiKemp/Desktop/Development/src/Web/AbhiShop.Webmvc/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/AbhiKemp/Desktop/Development/src/Web/AbhiShop.Webmvc/bin/Debug/netcoreapp2.0/bundleconfig.json
+/Users/AbhiKemp/Desktop/Development/src/Web/AbhiShop.Webmvc/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/Users/AbhiKemp/Desktop/Development/src/Web/AbhiShop.Webmvc/bin/Debug/netcoreapp2.0/AbhiShop.Webmvc.deps.json
+/Users/AbhiKemp/Desktop/Development/src/Web/AbhiShop.Webmvc/bin/Debug/netcoreapp2.0/AbhiShop.Webmvc.runtimeconfig.json
+/Users/AbhiKemp/Desktop/Development/src/Web/AbhiShop.Webmvc/bin/Debug/netcoreapp2.0/AbhiShop.Webmvc.runtimeconfig.dev.json
+/Users/AbhiKemp/Desktop/Development/src/Web/AbhiShop.Webmvc/bin/Debug/netcoreapp2.0/AbhiShop.Webmvc.dll
+/Users/AbhiKemp/Desktop/Development/src/Web/AbhiShop.Webmvc/bin/Debug/netcoreapp2.0/AbhiShop.Webmvc.pdb
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Web\AbhiShop.Webmvc\bin\Debug\netcoreapp2.0\AbhiShop.Webmvc.deps.json
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Web\AbhiShop.Webmvc\bin\Debug\netcoreapp2.0\AbhiShop.Webmvc.runtimeconfig.json
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Web\AbhiShop.Webmvc\bin\Debug\netcoreapp2.0\AbhiShop.Webmvc.runtimeconfig.dev.json
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Web\AbhiShop.Webmvc\bin\Debug\netcoreapp2.0\AbhiShop.Webmvc.dll
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Web\AbhiShop.Webmvc\bin\Debug\netcoreapp2.0\AbhiShop.Webmvc.pdb
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Web\AbhiShop.Webmvc\obj\Debug\netcoreapp2.0\AbhiShop.Webmvc.csprojAssemblyReference.cache
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Web\AbhiShop.Webmvc\obj\Debug\netcoreapp2.0\AbhiShop.Webmvc.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Web\AbhiShop.Webmvc\obj\Debug\netcoreapp2.0\AbhiShop.Webmvc.AssemblyInfoInputs.cache
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Web\AbhiShop.Webmvc\obj\Debug\netcoreapp2.0\AbhiShop.Webmvc.AssemblyInfo.cs
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Web\AbhiShop.Webmvc\obj\Debug\netcoreapp2.0\AbhiShop.Webmvc.dll
+C:\Users\Abhishek Muthsandra\Desktop\Working\Development-Feb28th\Development\src\Web\AbhiShop.Webmvc\obj\Debug\netcoreapp2.0\AbhiShop.Webmvc.pdb

@@ -1,0 +1,69 @@
+version: "3.2"
+networks:
+    frontend:
+    backend:
+
+services:
+
+    abhishop.webmvc:
+       build:
+        context: ./src/Web/AbhiShop.Webmvc
+        dockerfile: Dockerfile
+       environment:
+       - ASPNETCORE_ENVIRONMENT=Development
+       - InventoryUrl=http://inventory
+       - IdentityUrl=http://192.168.1.2:5200
+       container_name: abhishopfront
+       ports:
+          - "5000:80"
+       networks:
+          - frontend
+       depends_on:
+          - inventory
+          - tokenservice
+
+    inventory:
+       build:
+        context: ./src/Services/InventoryManagementAPI
+        dockerfile: Dockerfile
+       environment: 
+        - DatabaseServer=mssqlserver
+        - DatabaseName=InventoryDb
+        - DatabaseUser=sa
+        - DatabaseUserPassword=Capstone11! 
+       container_name: inventoryapi
+       ports:
+         - "5100:80"
+       networks:
+        - backend
+        - frontend
+       depends_on:
+        - mssqlserver
+    
+    tokenservice:
+        build:
+            context: ./src/Services/TokenServiceAPI
+            dockerfile: Dockerfile
+        environment: 
+        - ASPNETCORE_ENVIRONMENT=Development
+        - MvcClient=http://localhost:5000
+        container_name: tokenserviceapi
+        ports:
+            - "5200:80"
+        networks:
+            - backend
+            - frontend
+        depends_on:
+            - mssqlserver
+
+    mssqlserver:
+        image: "microsoft/mssql-server-linux:latest"
+        ports:
+            - "1445:1433"
+        container_name: mssqlcontainer
+        environment:
+            - ACCEPT_EULA=Y
+            - SA_PASSWORD=Capstone11!
+        networks:
+            - backend
+

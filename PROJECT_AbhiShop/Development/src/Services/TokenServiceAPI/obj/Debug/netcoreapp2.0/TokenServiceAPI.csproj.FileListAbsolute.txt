@@ -1,0 +1,27 @@
+C:/Users/Abhishek Muthsandra/Desktop/Working/Development-Feb28th/Development/src/Services/TokenServiceAPI/bin/Debug/netcoreapp2.0/TokenServiceAPI.deps.json
+C:/Users/Abhishek Muthsandra/Desktop/Working/Development-Feb28th/Development/src/Services/TokenServiceAPI/bin/Debug/netcoreapp2.0/TokenServiceAPI.runtimeconfig.json
+C:/Users/Abhishek Muthsandra/Desktop/Working/Development-Feb28th/Development/src/Services/TokenServiceAPI/bin/Debug/netcoreapp2.0/TokenServiceAPI.runtimeconfig.dev.json
+C:/Users/Abhishek Muthsandra/Desktop/Working/Development-Feb28th/Development/src/Services/TokenServiceAPI/bin/Debug/netcoreapp2.0/TokenServiceAPI.dll
+C:/Users/Abhishek Muthsandra/Desktop/Working/Development-Feb28th/Development/src/Services/TokenServiceAPI/bin/Debug/netcoreapp2.0/TokenServiceAPI.pdb
+C:/Users/Abhishek Muthsandra/Desktop/Working/Development-Feb28th/Development/src/Services/TokenServiceAPI/obj/Debug/netcoreapp2.0/TokenServiceAPI.csprojAssemblyReference.cache
+C:/Users/Abhishek Muthsandra/Desktop/Working/Development-Feb28th/Development/src/Services/TokenServiceAPI/obj/Debug/netcoreapp2.0/TokenServiceAPI.csproj.CoreCompileInputs.cache
+C:/Users/Abhishek Muthsandra/Desktop/Working/Development-Feb28th/Development/src/Services/TokenServiceAPI/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+C:/Users/Abhishek Muthsandra/Desktop/Working/Development-Feb28th/Development/src/Services/TokenServiceAPI/obj/Debug/netcoreapp2.0/TokenServiceAPI.AssemblyInfoInputs.cache
+C:/Users/Abhishek Muthsandra/Desktop/Working/Development-Feb28th/Development/src/Services/TokenServiceAPI/obj/Debug/netcoreapp2.0/TokenServiceAPI.AssemblyInfo.cs
+C:/Users/Abhishek Muthsandra/Desktop/Working/Development-Feb28th/Development/src/Services/TokenServiceAPI/obj/Debug/netcoreapp2.0/TokenServiceAPI.dll
+C:/Users/Abhishek Muthsandra/Desktop/Working/Development-Feb28th/Development/src/Services/TokenServiceAPI/obj/Debug/netcoreapp2.0/TokenServiceAPI.pdb
+/Users/AbhiKemp/Desktop/Development/src/Services/TokenServiceAPI/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/Users/AbhiKemp/Desktop/Development/src/Services/TokenServiceAPI/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/AbhiKemp/Desktop/Development/src/Services/TokenServiceAPI/bin/Debug/netcoreapp2.0/bundleconfig.json
+/Users/AbhiKemp/Desktop/Development/src/Services/TokenServiceAPI/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/Users/AbhiKemp/Desktop/Development/src/Services/TokenServiceAPI/bin/Debug/netcoreapp2.0/TokenServiceAPI.deps.json
+/Users/AbhiKemp/Desktop/Development/src/Services/TokenServiceAPI/bin/Debug/netcoreapp2.0/TokenServiceAPI.runtimeconfig.json
+/Users/AbhiKemp/Desktop/Development/src/Services/TokenServiceAPI/bin/Debug/netcoreapp2.0/TokenServiceAPI.runtimeconfig.dev.json
+/Users/AbhiKemp/Desktop/Development/src/Services/TokenServiceAPI/bin/Debug/netcoreapp2.0/TokenServiceAPI.dll
+/Users/AbhiKemp/Desktop/Development/src/Services/TokenServiceAPI/bin/Debug/netcoreapp2.0/TokenServiceAPI.pdb
+/Users/AbhiKemp/Desktop/Development/src/Services/TokenServiceAPI/obj/Debug/netcoreapp2.0/TokenServiceAPI.csprojAssemblyReference.cache
+/Users/AbhiKemp/Desktop/Development/src/Services/TokenServiceAPI/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Users/AbhiKemp/Desktop/Development/src/Services/TokenServiceAPI/obj/Debug/netcoreapp2.0/TokenServiceAPI.AssemblyInfoInputs.cache
+/Users/AbhiKemp/Desktop/Development/src/Services/TokenServiceAPI/obj/Debug/netcoreapp2.0/TokenServiceAPI.AssemblyInfo.cs
+/Users/AbhiKemp/Desktop/Development/src/Services/TokenServiceAPI/obj/Debug/netcoreapp2.0/TokenServiceAPI.dll
+/Users/AbhiKemp/Desktop/Development/src/Services/TokenServiceAPI/obj/Debug/netcoreapp2.0/TokenServiceAPI.pdb
